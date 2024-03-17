@@ -10,6 +10,6 @@ Together, there are four attached files, that should be run in the following ord
 
 3. "Static_plots.py": Uses the data from the previous program to generate plots that are not uploaded to a website and not responsive to user inputs.
    
-5. "app.py": Uses the data from the program in step 2 to create plots that are responsive to user inputs. These plots are pictured in the writeup attached to the application.
+5. "app.py": Uses the data from the program in step 2 to create plots that are responsive to user inputs. These plots are pictured in the writeup attached to the job application.
    
 7. "OLS_Regression_analysis.py": Runs regressions of demographic factors against per-capita green, active transportation and transit funding. The results are outputted as pngs. 
